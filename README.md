@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-My name is Tochukwu Ozurumba. I'm an Backend Engineer at [Ab-Inbev](https://www.ab-inbev.com/), working on Productivity and Marketing apps.
+My name is Tochukwu Ozurumba. I'm an Senior Fullstack Engineer at [Move Work Forward](https://www.moveworkforward.com/).
 
-I love developing Software Web applications using Javascript, Python, and also enjoy building stuff with Typescript.
+I will be updating my latest adventure with moving work forward
+
+I love developing Software Web applications using Javascript, and also enjoy building stuff with Typescript.
 
 Thanks for checking out my profile.
 
-Let's hangout on [Twitter](https://twitter.com/Tueloper), or even [LinkedIn](https://www.linkedin.com/in/tochukwu-ozurumba/)
+Let's hangout on [Twitter](https://twitter.com/Tueloper)
 
 <!--
 **Tueloper/Tueloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
