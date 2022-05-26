@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tochukwu Ozurumba. I'm an Senior Fullstack Engineer at [Move Work Forward](https://www.moveworkforward.com/).
+My name is Tochukwu Ozurumba. I'm a Fullstack Engineer 
 
 I will be updating my latest adventure with moving work forward
 
