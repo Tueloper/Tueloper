@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Tochukwu Ozurumba. I'm a Fullstack Engineer 
+My name is Tochukwu Ozurumba. I'm a Fullstack Engineer and also a student of Cambrian College, Mobile Application Development
 
-I will be updating my latest adventure with moving work forward
+I will be updating my hub with exicting apps i will be building at Cambrian College.
 
 I love developing Software Web applications using Javascript, and also enjoy building stuff with Typescript.
 
@@ -10,17 +10,10 @@ Thanks for checking out my profile.
 
 Let's hangout on [Twitter](https://twitter.com/Tueloper)
 
-<!--
-**Tueloper/Tueloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning Java Programming
+- 🌱 I’m currently learning Swift Programming
+- 🌱 I’m currently learning C# Programming
+- 🌱 I recently built an AWS infrastructure using Terraform
+- 👯 I’m expanding my knowledge of AWS, Serverless, network infrastructure, security, VPCs
+- 💬 Ask me about DevOps, AWS, Azure, Web, Javascript, Typescript
+- ⚡ Fun fact: I can't stop learning
